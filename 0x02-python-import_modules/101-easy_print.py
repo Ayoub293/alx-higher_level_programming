@@ -1,10 +1,4 @@
 #!/usr/bin/python3
-import python_for_me
-
-...........................................................
-vi 102-magic_calculation.py
-
-#!/usr/bin/python3
 from magic_calculation_102 import add, sub
 
 
