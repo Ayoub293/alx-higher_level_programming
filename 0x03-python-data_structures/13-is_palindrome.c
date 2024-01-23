@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+void revers(listint_t **head);
+int copare_lists(listint_t *head, listint_t *middle, int len);
+
 /**
 *add_nodeint - adds a new node at the beginning of a listint_t list
 *@head: head of listint_t
